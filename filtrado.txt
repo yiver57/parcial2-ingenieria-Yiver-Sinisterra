@@ -1,0 +1,4 @@
+Propuesta para implementar filtro por categor¡a: 
+- Usar un input para ingresar la categor¡a. 
+- Aplicar JavaScript para ocultar filas que no coincidan. 
+- Posible mejora: usar select con opciones predefinidas. 
