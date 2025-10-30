@@ -1,0 +1,6 @@
+Conflicto en index.html: 
+- L¡nea del t¡tulo 
+Descripci¢n: 
+Se produjo un conflicto al fusionar la rama hotfix-actualizacion con main porque ambas modificaron la misma l¡nea del t¡tulo en src/index.html. 
+Soluci¢n: 
+Combin‚ ambos t¡tulos en uno solo: "Lista de Productos Frescos - Actualizado" 
