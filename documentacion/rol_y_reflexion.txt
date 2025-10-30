@@ -1,0 +1,5 @@
+Rol cumplido:
+Developer (Desarrollador Frontend). Implementé la interfaz y lógica para mostrar la lista de productos y permitir interacción del usuario.
+
+Reflexión:
+SCRUM permite dividir el trabajo en sprints cortos y manejables, facilitando la planificación y seguimiento del progreso. Fomenta la colaboración y asegura que las funcionalidades más importantes se entreguen primero, aumentando eficiencia y calidad.

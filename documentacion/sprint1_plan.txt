@@ -1,0 +1,15 @@
+Objetivo del Sprint:
+Implementar la funcionalidad para mostrar una lista de productos con nombre, precio y categoría, permitiendo que el comprador elija fácilmente qué comprar.
+
+Historias seleccionadas:
+- Visualizar lista de productos con nombre, precio y categoría.
+- Filtrar productos por categoría.
+
+Tareas:
+1. Diseñar la estructura HTML para la lista de productos.
+2. Crear estilos CSS para la presentación.
+3. Implementar lógica en JavaScript para mostrar productos desde un arreglo.
+4. Agregar funcionalidad de filtro por categoría.
+5. Realizar pruebas de visualización y funcionalidad.
+
+Duración estimada: 5 días.

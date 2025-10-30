@@ -1,0 +1,20 @@
+1. Historia: Filtrar productos por categoría
+   - Como comprador, quiero poder filtrar productos por categoría para encontrar más rápido lo que necesito.
+   - Criterios de aceptación:
+     * El sistema debe mostrar un filtro por categoría.
+     * Al seleccionar una categoría, se muestran solo productos relacionados.
+   - Prioridad: Alta
+
+2. Historia: Ver imágenes de productos
+   - Como comprador, quiero ver imágenes de los productos para tener una mejor idea antes de comprar.
+   - Criterios de aceptación:
+     * Cada producto debe mostrar al menos una imagen.
+     * Las imágenes deben ser claras y representativas.
+   - Prioridad: Media
+
+3. Historia: Ordenar productos por precio
+   - Como comprador, quiero poder ordenar los productos por precio para elegir según mi presupuesto.
+   - Criterios de aceptación:
+     * Debe existir un botón para ordenar por precio ascendente y descendente.
+     * La lista debe actualizarse inmediatamente al cambiar el orden.
+   - Prioridad: Alta
